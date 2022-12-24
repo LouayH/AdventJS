@@ -5,3 +5,5 @@
 ## [24 JavaScript Challenges for the Season](https://www.adventofjs.com/)    
 ### Challenge 01 - [Pomodoro Timer](./01-pomodoro-timer)  
 ![Challenge 01 - Pomodoro Timer](./01-pomodoro-timer/preview.gif)
+### Challenge 02 - [Cart Component](./02-cart-component)  
+![Challenge 01 - Pomodoro Timer](./02-cart-component/preview.gif)
