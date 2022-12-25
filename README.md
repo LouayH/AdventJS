@@ -6,4 +6,6 @@
 ### Challenge 01 - [Pomodoro Timer](./01-pomodoro-timer)  
 ![Challenge 01 - Pomodoro Timer](./01-pomodoro-timer/preview.gif)
 ### Challenge 02 - [Cart Component](./02-cart-component)  
-![Challenge 01 - Pomodoro Timer](./02-cart-component/preview.gif)
+![Challenge 02 - Cart Component](./02-cart-component/preview.gif)
+### Challenge 03 - [Piano](./03-piano)  
+![Challenge 03 - Piano](./03-piano/preview.gif)

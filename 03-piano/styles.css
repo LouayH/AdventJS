@@ -1,0 +1,39 @@
+body {
+  background: #37B2C3;
+  margin: 0;
+}
+
+.piano {
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.white-keys {
+ fill: white;
+}
+
+.white-keys:hover,
+.white-keys.clicked {
+  fill: #ffd200;
+}
+
+.black-keys {
+  fill: black;
+}
+
+.black-keys:hover,
+.black-keys.clicked {
+  fill: #f40082;  
+}
+
+.play {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
