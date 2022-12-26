@@ -9,3 +9,5 @@
 ![Challenge 02 - Cart Component](./02-cart-component/preview.gif)
 ### Challenge 03 - [Piano](./03-piano)  
 ![Challenge 03 - Piano](./03-piano/preview.gif)
+### Challenge 04 - [Keyboard](./04-keyboard)  
+![Challenge 04 - Keyboard](./04-keyboard/preview.gif)
